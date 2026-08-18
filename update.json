@@ -1,5 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "latest_version": "1.0.2",
   "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
-  "notes": "Version 1.0.1: Initial release with enhanced compliance features."
+  "sha256": "34D99F2DAAE94816CE9C4822C7DDB5DB49A47522C4C36B5B203EFA0F586BF1B9",
+  "release_notes": "AgriEvolve Coffee Edition production release. Ticket numbering now stays tied to the SQLite AUTOINCREMENT ticket_no and the updater validates a downloaded EXE before replacement."
 }
