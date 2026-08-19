@@ -2,6 +2,6 @@
   "version": "1.0.4",
   "latest_version": "1.0.4",
   "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
-  "sha256": "321ECDFEC1D4BB9B4B1AAA66104E0D90209A7D2DC2CDFE412225832024E339AC",
+  "sha256": "C5E4033FB23C608E4B1BCAECF4453233EDDDC6A656BDEBB0064EE8EB37CCFABD",
   "release_notes": "AgriEvolve Coffee Edition v1.0.4 moves the database, scale configuration, and application logs to ProgramData for reliable client installations and updates."
 }
