@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "latest_version": "1.0.3",
+  "version": "1.0.4",
+  "latest_version": "1.0.4",
   "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
-  "sha256": "483BF8DB35080C92405B2949F77C1E1A9E8008FAC095053587CEA90912B063E6",
-  "release_notes": "AgriEvolve Coffee Edition v1.0.3 improves updater SSL certificate verification using the Certifi CA bundle."
+  "sha256": "321ECDFEC1D4BB9B4B1AAA66104E0D90209A7D2DC2CDFE412225832024E339AC",
+  "release_notes": "AgriEvolve Coffee Edition v1.0.4 moves the database, scale configuration, and application logs to ProgramData for reliable client installations and updates."
 }
