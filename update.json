@@ -1,7 +1,7 @@
 {
   "version": "1.0.4",
   "latest_version": "1.0.4",
-  "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
-  "sha256": "C5E4033FB23C608E4B1BCAECF4453233EDDDC6A656BDEBB0064EE8EB37CCFABD",
-  "release_notes": "AgriEvolve Coffee Edition v1.0.4 moves the database, scale configuration, and application logs to ProgramData for reliable client installations and updates."
+  "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/download/v1.0.4/AgriEvolveCoffeeEdition.exe",
+  "sha256": "781C6F84DD02F002EA60D98708FBD325327517ACF7EA86CECEA475E6D38C5090",
+  "release_notes": "AgriEvolve Coffee Edition v1.0.4 adds selectable A4/A5 ticket printing and moves the database, scale configuration, and application logs to ProgramData for reliable client installations and updates."
 }
