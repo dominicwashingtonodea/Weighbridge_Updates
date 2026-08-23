@@ -1,7 +1,7 @@
-{
+﻿{
   "version": "1.0.5",
   "latest_version": "1.0.5",
   "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
-  "sha256": "5E7E865113DF561751C8A07806E5C1C1476D33715DAD0343DBA9330A63041795",
+  "sha256": "7E6B3899CA9699D93B74F2F83B7AE51668D0888981F5372EFDFAD5261A3290BB",
   "release_notes": "AgriEvolve Coffee Edition v1.0.5. Improves ticket printing reliability by enforcing the 65-character ticket width, preventing long station, supplier, driver, truck, and operator values from overlapping the ticket layout. Includes the v1.0.4 A4/A5 paper-size printing support."
 }
