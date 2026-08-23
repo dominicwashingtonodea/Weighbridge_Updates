@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "latest_version": "1.0.4",
-  "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/download/v1.0.4/AgriEvolveCoffeeEdition.exe",
-  "sha256": "781C6F84DD02F002EA60D98708FBD325327517ACF7EA86CECEA475E6D38C5090",
-  "release_notes": "AgriEvolve Coffee Edition v1.0.4 adds selectable A4/A5 ticket printing and moves the database, scale configuration, and application logs to ProgramData for reliable client installations and updates."
+  "version": "1.0.5",
+  "latest_version": "1.0.5",
+  "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
+  "sha256": "5E7E865113DF561751C8A07806E5C1C1476D33715DAD0343DBA9330A63041795",
+  "release_notes": "AgriEvolve Coffee Edition v1.0.5. Improves ticket printing reliability by enforcing the 65-character ticket width, preventing long station, supplier, driver, truck, and operator values from overlapping the ticket layout. Includes the v1.0.4 A4/A5 paper-size printing support."
 }
