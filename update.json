@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "latest_version": "1.0.8",
+  "version": "1.0.10",
+  "latest_version": "1.0.10",
   "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
-  "sha256": "0304596116EA228638823DBE7F2C7C995FA86B768E3F0CC6BB179C08CDB4A775",
-  "release_notes": "AgriEvolve Coffee Edition v1.0.8. Adds scalable paginated transaction records and database performance indexes while preserving the v1.0.7 printing workflow."
+  "sha256": "05287678AE6FC0F7D10C4F5ACE054B2E6BA4F2885C692F39B4DCEFF92E3D5EEB",
+  "release_notes": "AgriEvolve Coffee Edition v1.0.10. Adds XK3190-A9+ serial protocol support with validated STX/ETX framing, checksum verification, buffered frame handling, and reliable live weight decoding."
 }
