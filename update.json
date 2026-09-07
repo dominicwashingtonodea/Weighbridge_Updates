@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "latest_version": "1.0.11",
+  "version": "1.0.12",
+  "latest_version": "1.0.12",
   "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
-  "sha256": "632BCB693E2F88057D0FE225101C026D65515ECFD9198DD98D3C00D362F7A7F0",
-  "release_notes": "AgriEvolve Coffee Edition v1.0.11. Adds bold centered Coffee Type printing immediately after the ticket header. Includes XK3190-A9+ serial protocol support with validated STX/ETX framing, checksum verification, buffered frame handling, and reliable live weight decoding."
+  "sha256": "BFF78641BC15DB0D9851D0AB34582A346EA5B1DBBF5977D9876215493FBAF12B",
+  "release_notes": "AgriEvolve Coffee Edition v1.0.12. Corrects Coffee Type printing so it appears bold and centered immediately after the ticket header. Includes XK3190-A9+ serial protocol support with validated STX/ETX framing, checksum verification, buffered frame handling, and reliable live weight decoding."
 }
