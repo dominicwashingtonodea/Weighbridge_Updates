@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "latest_version": "1.0.12",
+  "version": "1.0.13",
+  "latest_version": "1.0.13",
   "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
-  "sha256": "BFF78641BC15DB0D9851D0AB34582A346EA5B1DBBF5977D9876215493FBAF12B",
-  "release_notes": "AgriEvolve Coffee Edition v1.0.12. Corrects Coffee Type printing so it appears bold and centered immediately after the ticket header. Includes XK3190-A9+ serial protocol support with validated STX/ETX framing, checksum verification, buffered frame handling, and reliable live weight decoding."
+  "sha256": "9A995B866AE875C49D6E2B4CC2B03A92642D7C4E79D945B19B2033F16DBC35E7",
+  "release_notes": "AgriEvolve Coffee Edition v1.0.13. Adds automatic Windows PnP recovery for USB-serial scale Error 31, a privileged scale recovery service, post-restart PnP readiness verification, and hardened USB serial device selection."
 }
