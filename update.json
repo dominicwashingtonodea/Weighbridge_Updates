@@ -1,7 +1,8 @@
-{
+﻿{
   "version": "1.0.13",
   "latest_version": "1.0.13",
   "download_url": "https://github.com/dominicwashingtonodea/Weighbridge_Updates/releases/latest/download/AgriEvolveCoffeeEdition.exe",
-  "sha256": "9A995B866AE875C49D6E2B4CC2B03A92642D7C4E79D945B19B2033F16DBC35E7",
+  "sha256": "103D1C6B1464484D31E019B72D6253DD3952CD2C81F5881E3A56D16EB2F9B16C",
   "release_notes": "AgriEvolve Coffee Edition v1.0.13. Adds automatic Windows PnP recovery for USB-serial scale Error 31, a privileged scale recovery service, post-restart PnP readiness verification, and hardened USB serial device selection."
 }
+
